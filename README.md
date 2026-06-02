@@ -33,6 +33,14 @@ Or compile it into a standalone `.exe` using PyInstaller:
 
 pyinstaller --noconsole --onefile voice_generator_gui_v3.py
 
+## ☕ Support the Project
+
+If you find this tool useful, you can support its development:
+
+**Crypto Wallets:**
+* **USDT (TRC-20):** `TYZi6GmstgrmydgxtuUTPnzDSyt2Mi8QVp`
+* **TON:** `UQCBj3N8ZAqYazvHaN30s04JjNE4I9tAgGlH3X-prl44pCXO`
+
 
 ## 📄 License
 
