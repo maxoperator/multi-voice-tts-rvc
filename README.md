@@ -1,4 +1,3 @@
-Markdown
 # Multilingual Edge TTS Generator
 
 A powerful, fast, and multi-threaded desktop application designed for high-quality multilingual text-to-speech synthesis. Powered by **Microsoft Edge TTS** and built with a clean Python Tkinter interface.
