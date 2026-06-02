@@ -5,30 +5,35 @@ A powerful, fast, and multi-threaded desktop application designed for high-quali
 
 ## 🔥 Key Features
 
-*   **Multilingual Support:** Access to over 80+ global languages and hundreds of natural-sounding voices out of the box.
-*   **Smart Multi-Threading:** Download audio chunks from Microsoft servers using parallel threads simultaneously for maximum speed.
-*   **Intelligent Text Splitting:** Automatically splits long texts into perfectly sized chunks to optimize processing and avoid timeouts.
-*   **Flexible Controls:** Easily adjust characters per chunk and the number of parallel download packages via clean UI sliders.
-*   **Direct-to-ZIP Packing:** All processed files are packed directly into a compressed ZIP archive from RAM, protecting your hard drive from unnecessary cache files.
-*   **10-Language UI:** Native localized interface available in English, Russian, Ukrainian, Spanish, German, French, Portuguese, Chinese, Japanese, and Arabic.
+* **Multilingual Support:** Access to over 80+ global languages and hundreds of natural-sounding voices out of the box.
+* **Smart Multi-Threading:** Download audio chunks from Microsoft servers using parallel threads simultaneously for maximum speed.
+* **Intelligent Text Splitting:** Automatically splits long texts into perfectly sized chunks to optimize processing and avoid timeouts.
+* **Flexible Controls:** Easily adjust characters per chunk and the number of parallel download packages via clean UI sliders.
+* **Direct-to-ZIP Packing:** All processed files are packed directly into a compressed ZIP archive from RAM, protecting your hard drive from unnecessary cache files.
+* **10-Language UI:** Native localized interface available in English, Russian, Ukrainian, Spanish, German, French, Portuguese, Chinese, Japanese, and Arabic.
 
 ## 🛠️ Requirements & Installation
 
 Before running the application, make sure you have **Python 3.10+** installed on your system.
 
 1. Clone or download this repository.
-2. Install the required Python libraries:
-```bash
-   pip install edge-tts
-🚀 How to Run
+2. Install the required Python library via your terminal:
+
+pip install edge-tts
+
+
+## 🚀 How to Run
+
 Simply execute the main script from your terminal:
 
-Bash
 python voice_generator_gui_v3.py
-Or compile it into a standalone .exe using PyInstaller:
 
-Bash
+
+Or compile it into a standalone `.exe` using PyInstaller:
+
 pyinstaller --noconsole --onefile voice_generator_gui_v3.py
 
-📄 License
-This project is proprietary. All rights reserved. Code is provided for educational and review purposes only. Commercial distribution or copying without explicit permission from the author is strictly prohibited.
+
+## 📄 License
+
+This project is proprietary. All rights reserved. Code is provided for educational and review
